@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg"
+     width="200" height="100"
+     onload="document.getElementById('result').textContent='JavaScript Executed'">
+  <rect width="200" height="100" fill="lightblue"/>
+  <text id="result" x="10" y="50">SVG Loaded</text>
+</svg>
